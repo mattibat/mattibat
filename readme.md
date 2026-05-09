@@ -3,7 +3,7 @@
 </p>
 
 <p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?width=500&font=IBM+Plex+Sans&color=1DC3F7&vCenter=true&lines=Welcome+to+my+GitHub+Profile!;I'm+a+frontend+and+backend+developer+with+focus+on+FiveM" /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?width=500&font=IBM+Plex+Sans&color=1DC3F7&vCenter=true&lines=Welcome+to+my+GitHub+Profile!;I'm+a+frontend+and+backend+developer." /></a>
 </p>
 
 - 👋 Hi, I’m Matti
