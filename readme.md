@@ -7,8 +7,8 @@
 </p>
 
 - 👋 Hi, I’m Matti
-- 💼 I'm a Hobby FiveM Developer.
-- 🔭 I'm currently working on a FiveM Service.
+- 💼 I'm a Hobby Developer.
+- 🔭 I'm currently working for different projects in and outside the FiveM scene.
 - 📫 How to reach me
   - Discord: **matti.bat**
 
