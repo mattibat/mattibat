@@ -2,7 +2,7 @@
 
 Hobby developer focused on **FiveM** and related tooling: Lua resources, web UIs, and server-side work in and outside the scene.
 
-**Reach me:** Discord `matti.bat` · Email `[matti@herocreative.de](mailto:matti@herocreative.de)`
+**Reach me:** Discord `matti.bat` · Email [matti@herocreative.de](mailto:matti@herocreative.de)
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mattibat&color=blue" alt="Profile views">
